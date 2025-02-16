@@ -7,6 +7,35 @@ body {
     color: #e0e0e0;
 }
 
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
+
+a:link {
+    color: white;
+  }
+  
+a:visited {
+    color: white;
+  }
+
+.tab1 {
+    margin-left: 40px;
+}
+
+.tab2 {
+    margin-left: 40px;
+}
+
+
 .container {
     width: 80%;
     margin: 0 auto;
