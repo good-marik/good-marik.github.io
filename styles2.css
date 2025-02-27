@@ -14,7 +14,7 @@ table {
 }
 
 th, td {
-    border: 1px solid black;
+    border: 0px solid black;
     padding: 5px;
     text-align: left;
 }
@@ -43,10 +43,12 @@ a:visited {
 
 .header {
     background-color: #1e1e1e;
-    color: #ffa726;
+    /*color: #ffa726;*/
+    color: #56f342;
     text-align: center;
     padding: 1.5rem 0;
 }
+
 
 .title {
     font-size: 2.5rem;
