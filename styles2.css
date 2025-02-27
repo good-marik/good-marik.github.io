@@ -28,13 +28,16 @@ a:visited {
   }
 
 .tab1 {
-    margin-left: 40px;
+    margin-left: 0px;
 }
 
 .tab2 {
     margin-left: 40px;
 }
 
+.tab3 {
+    margin-left: 40px;
+}
 
 .container {
     width: 80%;
@@ -44,7 +47,8 @@ a:visited {
 .header {
     background-color: #1e1e1e;
     /*color: #ffa726;*/
-    color: #56f342;
+    /* color: #56f342; */
+    color: #ffcc80;
     text-align: center;
     padding: 1.5rem 0;
 }
