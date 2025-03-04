@@ -22,18 +22,20 @@ th, td {
 
 
 a:link {
-	color: #81d4fac4;
+	color: #acacac;
 	text-decoration: none;
 }
 
 
 a:visited {
-    color: #81d4fac4;
+    color: #acacac;
 	text-decoration: none;
 }
 
 a:hover {
-    color: #81d4fa;
+    /* color: #81d4fa; */
+    /* color: #ff7043; */
+    color: white;
     font-weight: bold;
 }
 
@@ -119,22 +121,28 @@ h2 {
     padding: 0;
 }
 
-.skills-list li, .contact-list li {
+.skills-list li {
     margin: 0.5rem 0;
     color: #e0e0e0;
 }
 
-.contact-list a:link{
+.contact-list li {
+    margin: 0.5rem 0;
     color: #ffcc80;
 }
 
+.contact-list a:link{
+    color:#e0e0e0;
+}
+
 .contact-list a:visited {
-    color: #ffcc80;
+    color: #e0e0e0;
 	text-decoration: none;
 }
 
 .contact-list a:hover {
-    color: #ffcc80;
+    /* color: #ffcc80; */
+    color: white;
     font-weight: bold;
 }
 
